@@ -23,4 +23,4 @@ jobs:
         pip install requests beautifulsoup4 python-telegram-bot schedule
 
     - name: Run script
-      run: python meu_script.py
+      run: python meu_scripy.py
